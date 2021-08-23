@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 🔭 I’m currently a student majoring in Data Science. 
 
 <img align="float" src="https://github-readme-stats.vercel.app/api?username=dukechain2333&show_icons=true&theme=radical" />   
-<img align="float" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dukechain2333&theme=radical" />
-<img align="float" src="https://github-readme-stats.vercel.app/api/wakatime?username=dukechain2333&theme=radical" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dukechain2333&theme=radical" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=dukechain2333&theme=radical" />
