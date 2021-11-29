@@ -20,8 +20,8 @@ jobs:
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
-          gif_out_path: ./assets/github-contribution-grid-snake.gif
-          svg_out_path: ./assets/github-contribution-grid-snake.svg
+          gif_out_path: ./snakes/github-contribution-grid-snake.gif
+          svg_out_path: ./snakes/github-contribution-grid-snake.svg
           
       - name: GitHub-Profile-3D-Contrib
         uses: yoshi389111/github-profile-3d-contrib@0.2.0
