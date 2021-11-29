@@ -19,7 +19,7 @@
 
 ### My GitHub Contributions
 
-![](https://raw.githubusercontent.com/dukechain2333/dukechain2333/main/assets/github-contribution-grid-snake.svg)
+![](./snakes/github-contribution-grid-snake.svg)
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 ### My GitHub Stats
