@@ -1,10 +1,10 @@
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
 
-name: GenerateSnake
+name: GererateProfile
 
 on:
   schedule:
-    - cron: "15 4 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -29,11 +29,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-#       - name: Push to GitHub
-#         uses: EndBug/add-and-commit@v7.2.1
-#         with:
-#           branch: main
-#           message: 'Generate Contribution Snake'
       - name: Commit & Push
         run: |
           git config user.name github-actions
