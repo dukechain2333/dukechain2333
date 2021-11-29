@@ -4,7 +4,7 @@ name: GenerateSnake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "05 4 * * *"
   workflow_dispatch:
 
 jobs:
@@ -22,9 +22,22 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           gif_out_path: ./assets/github-contribution-grid-snake.gif
           svg_out_path: ./assets/github-contribution-grid-snake.svg
+          
+      - name: GitHub-Profile-3D-Contrib
+        uses: yoshi389111/github-profile-3d-contrib@0.2.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
 
-      - name: Push to GitHub
-        uses: EndBug/add-and-commit@v7.2.1
-        with:
-          branch: main
-          message: 'Generate Contribution Snake'
+#       - name: Push to GitHub
+#         uses: EndBug/add-and-commit@v7.2.1
+#         with:
+#           branch: main
+#           message: 'Generate Contribution Snake'
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "generated"
+          git push
