@@ -22,9 +22,9 @@
 ![](./snakes/github-contribution-grid-snake.svg)
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-### My GitHub Stats
+<!-- ### My GitHub Stats
 
-![ZhChain's GitHub stats](https://github-readme-stats.vercel.app/api?username=dukechain2333&show_icons=true&theme=radical)
+![ZhChain's GitHub stats](https://github-readme-stats.vercel.app/api?username=dukechain2333&show_icons=true&theme=radical) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dukechain2333&theme=radical&layout=compact) -->
 
 ⭐️ From [ZHChain](https://github.com/dukechain2333)
