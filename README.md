@@ -1,4 +1,4 @@
-### Hi there 👋 I'm ZHChain
+### Hi there 👋 I'm ZHChien
 🎉 Welcome to my GitHub profile!  
 🔭 I’m currently a student majoring in Data Science. 
 
