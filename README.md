@@ -22,6 +22,9 @@
 ![](./snakes/github-contribution-grid-snake.svg)
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
+### My Honors
+![](./badges/google-data-analytics-professional-certificate.1.png)
+
 <!-- ### My GitHub Stats
 
 ![ZhChain's GitHub stats](https://github-readme-stats.vercel.app/api?username=dukechain2333&show_icons=true&theme=radical) -->
