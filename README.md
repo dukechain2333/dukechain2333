@@ -23,7 +23,8 @@
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ### My Honors
-![](./badges/google-data-analytics-professional-certificate.1.png)
+<!-- ![](./badges/google-data-analytics-professional-certificate.1.png) -->
+<img src="https://github.com/dukechain2333/dukechain2333/blob/main/badges/google-data-analytics-professional-certificate.1.png" width="100px">
 
 <!-- ### My GitHub Stats
 
