@@ -23,7 +23,8 @@
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ### My Honors
-<img src="./badges/google-data-analytics-professional-certificate.1.png" width="200px"><img src="./badges/data-science-orientation.png" width="200px">
+<img src="./badges/google-data-analytics-professional-certificate.1.png" width="200px"><img src="./badges/data-science-orientation.png" width="200px"><img src="./badges/tools-for-data-science.png" width="200px">
+
 
 <!-- ### My GitHub Stats
 
