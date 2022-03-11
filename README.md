@@ -23,9 +23,10 @@
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ### My Honors
-<img src="./badges/google-data-analytics-professional-certificate.1.png" width="200px"><img src="./badges/data-science-orientation.png" width="200px"><img src="./badges/tools-for-data-science.png" width="200px"><img src="./badges/data-science-methodology.png" width="200px">
+<img src="./badges/google-data-analytics-professional-certificate.1.png" width="200px"><img src="./badges/data-science-professional-certificate-v2.png" width="200px"><img src="./badges/tools-for-data-science.png" width="200px"><img src="./badges/data-science-methodology.png" width="200px">
 <img src="./badges/python-for-data-science-and-ai.png" width="200px"><img src="./badges/python-project-for-data-science.png" width="200px"><img src="./badges/data-analysis-with-python.png" width="200px"><img src="./badges/databases-and-sql-for-data-science.png" width="200px">
 <img src="./badges/data-visualization-with-python.png" width="200px"><img src="./badges/data-science-foundations-specialization.png" width="200px"><img src="./badges/machine-learning-with-python.png" width="200px"><img src="./badges/statistics-for-data-science-with-python.png" width="200px">
+<img src="./badges/applied-data-science-capstone.png" width="200px"><img src="./badges/data-science-orientation.png" width="200px">
 
 
 <!-- ### My GitHub Stats
