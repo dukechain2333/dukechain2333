@@ -27,7 +27,8 @@
 <img src="./badges/python-for-data-science-and-ai.png" width="200px"><img src="./badges/python-project-for-data-science.png" width="200px"><img src="./badges/data-analysis-with-python.png" width="200px"><img src="./badges/databases-and-sql-for-data-science.png" width="200px">
 <img src="./badges/data-visualization-with-python.png" width="200px"><img src="./badges/tools-for-data-science.png" width="200px"><img src="./badges/machine-learning-with-python.png" width="200px"><img src="./badges/statistics-for-data-science-with-python.png" width="200px">
 <img src="./badges/applied-data-science-capstone.png" width="200px"><img src="./badges/data-science-orientation.png" width="200px"><img src="./badges/data-analytics-essentials.png" width="200px"><img src="./badges/data-visualization-dashboard-essentials.png" width="200px">
-<img src="./badges/excel-essentials-for-data-analytics.png" width="200px"><img src="./badges/data-analyst-capstone-project.png" width="200px"><img src="./badges/data-engineering-essentials.png" width="200px"><img src="./badges/relational-databases-rdbms-essentials.png" width="200px">
+<img src="./badges/excel-essentials-for-data-analytics.png" width="200px"><img src="./badges/data-analyst-capstone-project.png" width="200px"><img src="./badges/data-engineering-essentials.png" width="200px"><img src="./badges/relational-databases-rdbms-essentials.png" width="200px"><img src="./badges/relational-database-administration-essentials.png" width="200px">
+
 
 <!-- ### My GitHub Stats
 
