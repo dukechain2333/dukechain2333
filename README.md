@@ -1,4 +1,4 @@
-### Hi there 👋 I'm ZHChien
+### Hi there 👋 I'm Zehao Qian
 🎉 Welcome to my GitHub profile!  
 🔭 I’m currently a student majoring in Data Science. 
 
