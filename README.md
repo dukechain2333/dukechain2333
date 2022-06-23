@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Zehao Qian
 🎉 Welcome to my GitHub profile!  
-🔭 I’m currently a student majoring in Data Science. 
+🔭 I’m currently a student studying Data Science. 
 
 ### Languages and Tools:
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
