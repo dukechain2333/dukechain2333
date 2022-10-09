@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Zehao Qian
+### Hi there 👋 I'm William Zehao Qian
 🎉 Welcome to my GitHub profile!  
 🔭 I’m currently a student studying Data Science. 
 
