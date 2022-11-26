@@ -2,7 +2,7 @@
 🎉 Welcome to my GitHub profile!  
 🔭 I’m currently a student studying Data Science. 
 
-### You may know more about me by visiting my [personal blog](https://william-zehao-qian.me).
+### You may know more about me by visiting my [personal homepage](https://william-zehao-qian.me).
 
 ### Languages and Tools:
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
