@@ -43,8 +43,8 @@
 ![](./profile-3d-contrib/profile-gitblock.svg) -->
 
 ### My GitHub Stats
-
 <p align="center"> 
+<img src="./snakes/github-contribution-grid-snake.svg">
 <a href="https://github.com/dukechain2333/">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dukechain2333&show_icons=true&theme=radical" style="width: 58%; max-width: 58%; min-width: 58%;"/>
 </a>
