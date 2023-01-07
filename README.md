@@ -43,7 +43,7 @@
 ![](./profile-3d-contrib/profile-gitblock.svg) -->
 
 ### My GitHub Stats
-<img src="./snakes/github-contribution-grid-snake.svg">
+<img src="./snakes/github-snake.svg">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dukechain2333&show_icons=true&theme=radical&count_private=true" style="width: 58%; max-width: 58%; min-width: 58%;"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dukechain2333&theme=radical&show_icons=true&layout=compact&hide=jupyter_notebook&card_width=250&count_private=true" style="width: 40%; "/>
 
