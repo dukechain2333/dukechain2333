@@ -58,11 +58,11 @@
   <img alt="Github Status" src="https://github-readme-stats-ruby-one.vercel.app/api?username=dukechain2333&show_icons=true&count_private=true">
 </picture>
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=dukechain2333&theme=radical&show_icons=true&layout=compact&hide=jupyter_notebook&card_width=250&count_private=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=dukechain2333&show_icons=true&layout=compact&hide=jupyter_notebook&card_width=250&count_private=true">
   <img alt="Github Most Used Language" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=dukechain2333&show_icons=true&layout=compact&hide=jupyter_notebook&card_width=250&count_private=true">
-</picture>
+</picture> -->
 
 
 ### My Honors
