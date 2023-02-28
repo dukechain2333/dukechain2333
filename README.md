@@ -47,7 +47,7 @@
 
 ### My GitHub Stats
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./snakes/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./snakes/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./snakes/ocean.gif">
   <img alt="Github Snake" src="./snakes/ocean.gif">
 </picture>
