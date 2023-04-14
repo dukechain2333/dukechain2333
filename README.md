@@ -2,7 +2,6 @@
 🎉 Welcome to my GitHub profile!  
 🔭 I’m currently a student studying Data Science. 
 
-### You may know more about me by visiting my [personal homepage](https://william-zehao-qian.me).
 ### And this is my [LinkedIn](https://www.linkedin.com/in/william-qian-3a97b5245/) page.
 
 ### Languages and Tools:
