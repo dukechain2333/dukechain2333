@@ -2,7 +2,7 @@
 🎉 Welcome to my GitHub profile!  
 🔭 I’m currently a student studying Data Science and Biostatistics. 
 
-### And this is my [LinkedIn](https://www.linkedin.com/in/william-qian-3a97b5245/) page.
+<!-- ### And this is my [LinkedIn](https://www.linkedin.com/in/william-qian-3a97b5245/) page. -->
 
 ### Languages and Tools:
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
