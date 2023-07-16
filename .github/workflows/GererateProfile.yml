@@ -13,7 +13,7 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v2.3.4
+        uses: actions/checkout@v3
       
       - name: Generate Snake
         uses: Platane/snk@v2
@@ -26,7 +26,7 @@ jobs:
            ./snakes/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
           
       - name: GitHub-Profile-3D-Contrib
-        uses: yoshi389111/github-profile-3d-contrib@0.7.0
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
