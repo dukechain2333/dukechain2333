@@ -24,6 +24,8 @@ jobs:
            ./snakes/github-snake.svg
            ./snakes/github-snake-dark.svg?palette=github-dark
            ./snakes/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+          env: 
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
       - name: GitHub-Profile-3D-Contrib
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
