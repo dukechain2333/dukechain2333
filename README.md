@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm William Qian
 🎉 Welcome to my GitHub profile!  
-🔭 I’m currently a Ph.D. student studying Biostatistics. 
+🔭 I’m currently a Ph.D. student in Biostatistics. 
 
 <!-- ### And this is my [LinkedIn](https://www.linkedin.com/in/william-qian-3a97b5245/) page. -->
 
